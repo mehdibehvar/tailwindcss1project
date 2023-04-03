@@ -5,7 +5,7 @@ module.exports = {
     extend: {
       colors: {
         mcc: {
-          white: "#ffffff",
+          white: "#FFFFFF",
           white50: "rgba(255, 255, 255, 0.5)",
           yellow50: "#FFB000", ////primary-50
           yellow75: "#CE9414", ////primary-75
